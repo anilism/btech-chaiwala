@@ -1,0 +1,34 @@
+.outbox{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(nani.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 600px;
+}
+#nav{
+    border: solid 1px white;
+    height: 50px;
+    line-height: 50px;
+}
+#in{
+    color: aquamarine;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 180px;
+    font-weight: bold;
+}
+.out{
+    border: solid 1px white;
+    height: 450px;
+}
+#cafe{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px  red;
+}
+#menu{
+    border: solid 1px;
+    height: 200px;
+}
